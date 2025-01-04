@@ -1,0 +1,17 @@
+	Welcome To The Mini Mall 
+ Bill Number:9732 
+ Customer Name:komal 
+ Phone Number:7876835547 
+ Customer Email:vermakomu01@gmail.com 
+ =========================================================
+Products			Qunatity			Price
+=========================================================
+
+    Roadster			1			3300	
+    Safaras			1			2589	
+
+=========================================================
+ Sub Amount:			Rs.8478.00
+ Tax Amount:			Rs.254.34
+ Total Amount:			Rs.8732.34
+=========================================================

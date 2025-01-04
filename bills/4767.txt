@@ -1,0 +1,16 @@
+	Welcome To The Mini Mall 
+ Bill Number:4767 
+ Customer Name:anamika 
+ Phone Number:123456789 
+ Customer Email:anamika@gmail.com 
+ =========================================================
+Products			Qunatity			Price
+=========================================================
+
+    Roadster			1			3300	
+
+=========================================================
+ Sub Amount:			Rs.7800.00
+ Tax Amount:			Rs.234.00
+ Total Amount:			Rs.8034.00
+=========================================================

@@ -1,0 +1,14 @@
+	Welcome To The Mini Mall 
+ Bill Number:1638 
+ Customer Name:komal 
+ Phone Number:7876835547 
+ Customer Email:wertgyhujikijhg 
+=========================================================
+Products			Qunatity			Price
+========================================================= Lakme			1			120
+
+=========================================================
+ Sub Amount:			Rs.240.00
+ Tax Amount:			Rs.7.20
+ Total Amount:			Rs.247.20
+=========================================================

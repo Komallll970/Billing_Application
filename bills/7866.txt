@@ -1,0 +1,17 @@
+	Welcome To The Mini Mall 
+ Bill Number:7866 
+ Customer Name:asddswe 
+ Phone Number:wqdedw 
+ Customer Email:w 
+ =========================================================
+Products			Qunatity			Price
+=========================================================   Roadster			1			3300
+   Roadster			1			3300
+   Roadster			1			3300
+   Roadster			1			3300
+
+=========================================================
+ Sub Amount:			Rs.13200.00
+ Tax Amount:			Rs.396.00
+ Total Amount:			Rs.13596.00
+=========================================================

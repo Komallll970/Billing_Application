@@ -1,0 +1,17 @@
+	Welcome To The Mini Mall 
+ Bill Number:1882 
+ Customer Name:komal 
+ Phone Number:345678765434 
+ Customer Email:hgyhf 
+ =========================================================
+Products			Qunatity			Price
+=========================================================    Park Avenue			1			990
+    Indu-lekha			1			800
+    Indu-lekha			1			800
+    Indu-lekha			1			800
+
+=========================================================
+ Sub Amount:			Rs.3390.00
+ Tax Amount:			Rs.101.70
+ Total Amount:			Rs.3491.70
+=========================================================
